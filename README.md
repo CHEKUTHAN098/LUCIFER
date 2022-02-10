@@ -32,13 +32,13 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-* Check [info.py](https://github.com/Akbotmakersnew/LUCIFER/blob/master/info.py) for more
+* Check [info.py](https://github.com/CHEKUTHAN098/LUCIFER) for more
 
 
 ## Deploy
 You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://railway.app)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CHEKUTHAN098/LUCIFER)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAkbotmakersnew%2FLUCIFER)
 
